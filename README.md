@@ -45,7 +45,7 @@ GHCR :
 docker pull ghcr.io/abulcyberi220/abulcyberi:latest
 با استفاده از اسکریپت wrapper run-docker.sh
 
-$ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
+$ curl -LO https://raw.githubusercontent.com/abulcyberi220/abulcyberi/master/run-docker.sh
 $ bash run-docker.sh
 کانتینر موقت
 
